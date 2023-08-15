@@ -8,4 +8,4 @@
   <br> https://www.codeit.kr/topics/intro-to-nodejs
 
 ## Commit Record
-- 2023/08/15 - test.js
+- 2023/08/15 - test, StartPractice, 폴더추가
