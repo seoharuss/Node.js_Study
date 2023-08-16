@@ -10,7 +10,7 @@
 ## Commit Record
 - 2023/08/15 - add Module_Practice, Start_Practice folder
 
-- 2023/08/16 - add cowsay_modules folder
+- 2023/08/16 - add cowsay_modules folder, factorial practice
 
 ## Show cowsay modules
  ```
