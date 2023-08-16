@@ -9,3 +9,16 @@
 
 ## Commit Record
 - 2023/08/15 - add Module_Practice, Start_Practice folder
+
+- 2023/08/16 - add cowsay_modules folder
+
+## Show cowsay modules
+ ```
+< Hello JavaScript >
+ ------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
