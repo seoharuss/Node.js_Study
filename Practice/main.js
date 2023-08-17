@@ -1,5 +1,18 @@
-const fs = require('fs');
+const EventEmitter = require('events');
 
-fs.readFile('test.js', 'utf8', (err, content)=>{
-  console.log(content);
+const myEmitter = new EventEmitter();
+const myEmitter2 = new EventEmitter();
+
+myEmitter.on('test',() =>{
+  console.log('1');
 });
+
+myEmitter.on('test',() =>{
+  console.log('2');
+});
+
+myEmitter2.on('test',() =>{
+  console.log('3');
+});
+
+myEmitter2.emit('test');
