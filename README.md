@@ -7,10 +7,10 @@
 - codeit
   <br> https://www.codeit.kr/topics/intro-to-nodejs
 
-## Commit Record
-- 2023/08/15 - add Module_Practice, Start_Practice folder
+## Study Record
+- 2023/08/15 - add Module_Practice
 
-- 2023/08/16 - add cowsay_modules folder, factorial practice
+- 2023/08/16 - factorial practice
 
 - 2023/08/17 - change directory (Practice), callback, Event practice
 
