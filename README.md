@@ -14,7 +14,7 @@
 
 - 2023/08/17 - change directory (Practice), callback, Event practice
 
-- 2023/08/19 - EventEmitter practice
+- 2023/08/19 - EventEmitter , Server practice
 
 ## Show cowsay modules
  ```
