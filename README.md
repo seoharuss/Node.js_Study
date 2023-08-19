@@ -12,7 +12,9 @@
 
 - 2023/08/16 - add cowsay_modules folder, factorial practice
 
-- 2023/08.17 - change directory (Practice), callback, Event practice
+- 2023/08/17 - change directory (Practice), callback, Event practice
+
+- 2023/08/19 - EventEmitter practice
 
 ## Show cowsay modules
  ```
