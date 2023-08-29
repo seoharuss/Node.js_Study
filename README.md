@@ -16,6 +16,7 @@
 
 - 2023/08/19 - EventEmitter , Server practice
 
+- 2023/08/29 - url practice
 ## Show cowsay modules
  ```
 < Hello JavaScript >
